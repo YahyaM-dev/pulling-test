@@ -7,3 +7,8 @@ my favorite cars:
 1) mercades
 2) audi
 3) mg
+
+my favorite food:
+1) chicken
+2) fish
+3) meat
